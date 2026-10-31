@@ -1,0 +1,2 @@
+# VR-Based-Yoga-Posture-Detection-Classification-and-Correction
+The project uses computer vision and virtual reality. The system uses MediaPipe and OpenCV to detect body landmarks, analyze joint angles, classify selected yoga poses, and provide voice feedback to guide posture correction. The project also integrates ESP32-CAM-based image capture and a Unity VR environment for interactive yoga visualization.
