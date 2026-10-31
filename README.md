@@ -59,7 +59,7 @@ This repository contains the complete project code in a single Python file.
 ```text
 VR-Based-Yoga-Posture-Detection/
 ├── README.md
-├── yoga_posture_detection.py
+├── Yoga_Pose_detection_and_Classification.py
 └── Research Paper
 ```
 
