@@ -69,9 +69,7 @@ The Python file contains the main implementation for the project. The `results/`
 
 ### Requirements
 
-- Python 3
-- Required Python libraries used by the project
-- A webcam or the project's camera hardware, depending on the code configuration
+- Python 3.X or Google Colab (online)
 - ESP32-CAM and Arduino hardware for the camera-based setup
 - Unity and a compatible VR setup for the VR component
 
